@@ -1,0 +1,25 @@
+RELATÓRIO DETALHADO - ANÁLISE SITE SEFAZ-MS
+==================================================
+
+Total de serviços: 279
+Total de perfis: 5
+Total de categorias: 21
+
+DISTRIBUIÇÃO POR PERFIL:
+  Empresa: 134 (48.0%)
+  Cidadão: 84 (30.1%)
+  Produtor Rural: 32 (11.5%)
+  Poder Público: 20 (7.2%)
+  Contabilista: 9 (3.2%)
+
+CATEGORIAS MAIS FREQUENTES:
+  Serviços: 52
+  Regimes Especiais e Autorizações Específicas: 32
+  Documentos Fiscais Eletrônicos: 26
+  Cadastros: 24
+  ICMS: 22
+  IPVA: 21
+  Auto de Lançamento e Processo Administrativo Tributário: 21
+  Certidões, Atestados, Homologações e Declarações Tributárias: 12
+  Simples Nacional e MEI: 11
+  Nota Fiscal Avulsa Eletrônica: 9
