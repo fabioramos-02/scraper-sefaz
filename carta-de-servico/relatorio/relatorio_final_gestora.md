@@ -123,4 +123,4 @@ Foi realizada uma extração e análise completa do catálogo de serviços da SE
 ---
 
 *Relatório gerado automaticamente através de análise de dados do catálogo SEFAZ-MS*
-*Última atualização: 15/01/2025*
+*Última atualização: 14/08/2025*
