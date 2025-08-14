@@ -116,9 +116,14 @@ Foi realizada uma extração e análise completa do catálogo de serviços da SE
 
 ## 📞 CONTATO
 
-**Responsável Técnico:** Fabio Ramos
-**E-mail:** framos@segov.ms.gov.br
-**Telefone:** (67) 98482-5955
+**Responsável Técnico:**
+Fabio Ramos
+
+**E-mail:**
+framos@segov.ms.gov.br
+
+**Telefone:**
+(67) 98482-5955
 
 ---
 
