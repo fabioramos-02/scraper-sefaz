@@ -1,0 +1,20 @@
+Relatório gerado em: 14/08/2025 09:08
+Total de serviços: 359
+
+Distribuição por perfil:
+Comércio, Indústria e Serviços: 161
+Agropecuária: 99
+Cidadão / Órgão Governamental: 78
+Fiscalização: 21
+
+Top 10 categorias:
+Comércio Indústria e Serviços: 255
+Agropecuária: 193
+Cidadão / Governo / Geral: 125
+Outras solicitações - CCIS: 52
+Outras solicitações - CAP: 47
+Autorizações - CCIS: 46
+Benefícios Fiscais - CCIS: 39
+Documentos Fiscais - CCIS: 38
+Documentos Fiscais - CAP: 35
+Outras solicitações - Geral: 32

@@ -1,7 +1,7 @@
 # Relatório Executivo - Catálogo de Serviços SEFAZ-MS
 
 **Data:** $(Get-Date -Format "dd/MM/yyyy")
-**Responsável:** Estagiário - Demanda ARI
+**Responsável:** Fabio Ramos - Demanda SETDIG
 **Fonte:** https://www.catalogo.sefaz.ms.gov.br/
 
 ---
